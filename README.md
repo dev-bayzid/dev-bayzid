@@ -17,6 +17,12 @@
       </a>
 </p>
 
+## Stats
+![Bayzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-bayzid&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-bayzid&theme=material&short_numbers=true)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bayzid&stats_format=bytes)
 
 
 
