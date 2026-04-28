@@ -5,6 +5,7 @@
 
 ## About Me
 🎓 Student & aspiring Web Developer
+
 💻 Currently learning React and modern frontend tools
 
 
@@ -17,19 +18,20 @@
       </a>
 </p>
 
-## Stats
-![Bayzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-bayzid&show_icons=true&theme=radical)
+## My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-bayzid&theme=material&short_numbers=true)](https://git.io/streak-stats)
+![Bayzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-bayzid&_include_all_commits=true&theme=prussian)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bayzid&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bayzid&stats_format=bytes&theme=prussian)
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bayzid-hasan-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bayzid-hasan-dev/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bayzid-hasan-dev" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 </p>
 
 
