@@ -4,9 +4,9 @@
 
 
 ## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+🎓 Student & aspiring Web Developer
+💻 Currently learning React and modern frontend tools
+
 
 
 
