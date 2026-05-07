@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=30&pause=1000&center=true&vCenter=true&width=1150&lines=Hi+%F0%9F%91%8B%2C+I'm+Bayzid+Hasan;Web+Development+Enthusiast;Learning+Next.js+%26+Modern+Web+Tech;%F0%9F%9A%80+Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&center=true&vCenter=true&width=1200&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Bayzid+Hasan;Web+Development+Enthusiast;Learning+Next.js+%26+Modern+Web+Tech;%F0%9F%9A%80+Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-bayzid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
