@@ -92,7 +92,7 @@ I'm an enthusiastic and self-taught web developer passionate about building mode
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/YOUR-GITHUB" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/dev-bayzid" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
