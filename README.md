@@ -63,17 +63,6 @@ I'm an enthusiastic and self-taught web developer passionate about building mode
 
 ---
 
-## 📚 Featured Projects
-
-I'm continuously working on projects that showcase my skills and creativity. Check out my GitHub profile to see all my work!
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| Portfolio Website | Showcase of my work and skills | React, Tailwind CSS |
-| E-commerce Site | Full-featured shopping platform | React, Node.js, MongoDB |
-| Task Manager App | Collaborative task management | React, JavaScript |
-
-*More projects coming soon! Visit my GitHub for the complete portfolio.*
 
 ---
 
@@ -82,7 +71,7 @@ I'm continuously working on projects that showcase my skills and creativity. Che
 ```
 📍 HTML & CSS              → ✅ Completed
 📍 JavaScript (ES6+)       → ✅ Completed (Continuous Learning)
-📍 React.js                → 🔄 Currently Learning
+📍 Next.js                 → 🔄 Currently Learning
 📍 Tailwind CSS            → ✅ Completed
 📍 MERN Stack              → 🔄 In Progress
 📍 Git & GitHub            → ✅ Working On
@@ -95,10 +84,8 @@ I'm continuously working on projects that showcase my skills and creativity. Che
 
 - 🚀 Building responsive React applications
 - 📚 Mastering MERN Stack development
-- 🎨 Improving UI/UX design skills
 - 🔧 Learning advanced JavaScript concepts
 - 📖 Contributing to open-source projects
-- 💡 Solving problems with clean, efficient code
 
 ---
 
@@ -130,26 +117,9 @@ I'm continuously working on projects that showcase my skills and creativity. Che
 
 ---
 
-## 📝 What I'm Doing Now
-
-- 🔨 Working on new projects and learning new technologies
-- 📖 Diving deep into React hooks and advanced patterns
-- 🌐 Building my personal portfolio website
-- 💬 Collaborating with other developers
-- 🎯 Preparing for freelance opportunities
 
 ---
 
-## 📈 Development Roadmap
-
-```
-2024 Q2 ▓▓▓▓▓░░░░ Master React & Build Portfolio
-2024 Q3 ▓▓▓▓░░░░░ Complete MERN Stack
-2024 Q4 ▓▓░░░░░░░ First Freelance Projects
-2025 Q1 ▓░░░░░░░░ Professional Developer Position
-```
-
----
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-bayzid&theme=tokyonight" alt="Profile Summary" />
