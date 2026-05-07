@@ -1,8 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&width=500&lines=Hi+👋,+I'm+Bayzid+Hasan;Frontend+Developer+%26+MERN+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Bayzid+Hasan;Frontend+Developer;MERN+Stack+Learner&center=true&width=500&height=100&color=00D9FF&vCenter=true&size=32" alt="Typing SVG" />
 </h1>
-
-<h3 align="center">🚀 Aspiring Frontend Developer | MERN Stack Learner | Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-bayzid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
