@@ -44,20 +44,6 @@ I'm an enthusiastic and self-taught web developer passionate about building mode
 
 **Node.js** • **Express.js** • **MongoDB** • **JSON** • **API Development**
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-bayzid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-bayzid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-bayzid&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
 
 
 ---
@@ -81,7 +67,6 @@ I'm an enthusiastic and self-taught web developer passionate about building mode
 - 🚀 Building responsive React applications
 - 📚 Mastering MERN Stack development
 - 🔧 Learning advanced JavaScript concepts
-- 📖 Contributing to open-source projects
 
 ---
 
