@@ -85,20 +85,16 @@ Modern portfolio built with Next.js and Tailwind CSS.
 
 Friend relationship tracker
 
-🔗 Live Demo
-
-💻 Source
-
+- 🌐 **Live Demo:** https://keen-keeper-ten-puce.vercel.app/
+- 💻 **Source Code:** https://github.com/dev-bayzid/Keen-keeper
 --------------------------------------------------
 
 🚀 Tourism Website
 
 Responsive tourism platform
 
-🔗 Live Demo
-
-💻 Source
-
+- 🌐 **Live Demo:** https://books-vibe-read-books.netlify.app/
+- 💻 **Source Code:** https://github.com/dev-bayzid/book-vibe
 
 
 
