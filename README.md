@@ -90,9 +90,9 @@ A modern friendship management web application built with **Next.js, React, and 
 - 💻 **Source Code:** https://github.com/dev-bayzid/Keen-keeper
 --------------------------------------------------
 
-🚀 Tourism Website
+### 📚 Book Vibe
 
-Responsive tourism platform
+A modern book management web application built with **React.js and Tailwind CSS** that allows users to explore books, view detailed information, and organize their reading journey with an intuitive and responsive interface.
 
 - 🌐 **Live Demo:** https://books-vibe-read-books.netlify.app/
 - 💻 **Source Code:** https://github.com/dev-bayzid/book-vibe
