@@ -28,21 +28,21 @@ I'm an enthusiastic and self-taught web developer passionate about building mode
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="Frontend Skills" />
 </p>
 
-**HTML5** • **CSS3** • **JavaScript (ES6+)** • **React.js** • **Tailwind CSS**
+
 
 ### **Tools & Platforms**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vscode,figma,git" alt="Tools" />
 </p>
 
-**Git & GitHub** • **VS Code** • **Figma** • **RESTful APIs**
+
 
 ### **Learning Stack (MERN)**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" alt="MERN Stack" />
 </p>
 
-**Node.js** • **Express.js** • **MongoDB** • **JSON** • **API Development**
+
 
 
 
