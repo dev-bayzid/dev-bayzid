@@ -29,18 +29,12 @@ I enjoy solving real-world problems by building practical projects and continuou
 
 ---
 
-## 🎓 Learning Journey
+## 📌 What I'm Currently Working On
 
-```
-📍 HTML & CSS              → ✅ Completed
-📍 JavaScript (ES6+)       → ✅ Completed (Continuous Learning)
-📍 Next.js                 → ✅ Completed
-📍 Tailwind CSS            → ✅ Completed
-📍 MERN Stack              → 🔄 In Progress
-📍 Git & GitHub            → ✅ Working On
-📍 Web Design Principles   → 🔄 Improving
-```
-
+- 🚀 Improving my personal portfolio
+- 🌱 Learning backend development with Node.js & Express
+- 📚 Exploring authentication and databases
+- 🤝 Looking for open-source contribution opportunities
 ---
 
 ## 🎯 Current Focus
