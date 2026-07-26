@@ -80,11 +80,35 @@ I enjoy solving real-world problems by building practical projects and continuou
 
 ---
 
-## 💡 My Philosophy
+## 🚀 Featured Projects
 
-> "Technology is not just about writing code; it's about solving problems and creating meaningful user experiences that make a difference."
+🚀 Portfolio Website
 
----
+Modern portfolio built with Next.js
+
+🔗 Live Demo
+
+💻 Source
+
+--------------------------------------------------
+
+🚀 KeenKeeper
+
+Friend relationship tracker
+
+🔗 Live Demo
+
+💻 Source
+
+--------------------------------------------------
+
+🚀 Tourism Website
+
+Responsive tourism platform
+
+🔗 Live Demo
+
+💻 Source
 
 
 ---
