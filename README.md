@@ -9,39 +9,20 @@
 
 ## 🎯 About Me
 
-I'm an enthusiastic and self-taught web developer passionate about building modern, responsive web applications. I'm on a mission to master frontend development and become a professional MERN Stack Developer.
+I'm a frontend developer from Bangladesh who enjoys building modern, responsive web applications.
 
-- 🎓 **Student & Self-Taught Developer** - Learning through hands-on projects
-- 💻 **Currently Learning** React.js and modern frontend technologies
-- 🌱 **Exploring** Backend development
-- 🎨 **Passionate** about creating interactive and responsive websites
-- ⚡ **Goal** Become a professional MERN Stack Developer
-- 🤝 **Interested** in contributing to open-source projects
-- 📍 **Based in** Bangladesh
+I mainly work with React, Next.js and Tailwind CSS. Currently, I'm learning backend development to become a full-stack MERN developer.
+
+I enjoy solving real-world problems by building practical projects and continuously improving my development skills.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### **Frontend Technologies**
+### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,next,firebase,vercel,npm,linux,mongodb,express,git,github" alt="Frontend Skills" />
 </p>
-
-
-
-### **Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,git" alt="Tools" />
-</p>
-
-
-
-### **Learning Stack (MERN)**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" alt="MERN Stack" />
-</p>
-
 
 
 
