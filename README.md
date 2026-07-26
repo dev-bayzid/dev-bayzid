@@ -13,7 +13,7 @@ I'm an enthusiastic and self-taught web developer passionate about building mode
 
 - 🎓 **Student & Self-Taught Developer** - Learning through hands-on projects
 - 💻 **Currently Learning** React.js and modern frontend technologies
-- 🌱 **Exploring** JavaScript ecosystem and UI/UX development
+- 🌱 **Exploring** Backend development
 - 🎨 **Passionate** about creating interactive and responsive websites
 - ⚡ **Goal** Become a professional MERN Stack Developer
 - 🤝 **Interested** in contributing to open-source projects
@@ -53,7 +53,7 @@ I'm an enthusiastic and self-taught web developer passionate about building mode
 ```
 📍 HTML & CSS              → ✅ Completed
 📍 JavaScript (ES6+)       → ✅ Completed (Continuous Learning)
-📍 Next.js                 → 🔄 Currently Learning
+📍 Next.js                 → ✅ Completed
 📍 Tailwind CSS            → ✅ Completed
 📍 MERN Stack              → 🔄 In Progress
 📍 Git & GitHub            → ✅ Working On
