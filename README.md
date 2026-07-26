@@ -57,10 +57,6 @@ I enjoy solving real-world problems by building practical projects and continuou
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://github.com/dev-bayzid" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
   <a href="mailto:bayzidhasan1612@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -135,9 +131,6 @@ Responsive tourism platform
   <strong>Feel free to explore my work, star my repositories, and let's connect! 🚀</strong>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Bayzid%20Hasan-blue?style=for-the-badge" alt="Made with Love" />
