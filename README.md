@@ -21,7 +21,7 @@ I enjoy solving real-world problems by building practical projects and continuou
 
 ### **Tools & Technologies**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,next,firebase,vercel,npm,linux,mongodb,express,git,github" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,firebase,vercel,npm,linux,mongodb,express,git,github" alt="Frontend Skills" />
 </p>
 
 
