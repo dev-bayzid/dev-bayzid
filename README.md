@@ -54,6 +54,11 @@ I enjoy solving real-world problems by building practical projects and continuou
 ## 🔗 Connect With Me
 
 <p align="center">
+
+  <a href="https://bayzid-dev.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+  
   <a href="https://www.linkedin.com/in/bayzid-hasan-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
