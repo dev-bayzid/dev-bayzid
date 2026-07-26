@@ -81,9 +81,10 @@ Modern portfolio built with Next.js and Tailwind CSS.
 
 --------------------------------------------------
 
-🚀 KeenKeeper
+### 🫂 KeenKeeper — Friendship Relationship Tracker
 
-Friend relationship tracker
+A modern friendship management web application built with **Next.js, React, and Tailwind CSS** that helps users maintain meaningful relationships by tracking communication history, upcoming contact goals, and interaction analytics.
+
 
 - 🌐 **Live Demo:** https://keen-keeper-ten-puce.vercel.app/
 - 💻 **Source Code:** https://github.com/dev-bayzid/Keen-keeper
