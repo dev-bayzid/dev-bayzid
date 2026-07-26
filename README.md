@@ -76,13 +76,12 @@ I enjoy solving real-world problems by building practical projects and continuou
 
 ## 🚀 Featured Projects
 
-🚀 Portfolio Website
+### 🌐 Portfolio Website
 
-Modern portfolio built with Next.js
+Modern portfolio built with Next.js and Tailwind CSS.
 
-🔗 Live Demo
-
-💻 Source
+- 🔗 **Live:** https://bayzid-dev.vercel.app
+- 💻 **Source:** https://github.com/dev-bayzid/Portfolio
 
 --------------------------------------------------
 
