@@ -23,8 +23,21 @@ I enjoy solving real-world problems by building practical projects and continuou
 
 ## 🛠️ Skills & Tools
 
+<p align="center"><b>💻 Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,vscode,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend Skills" />
+</p>
+<br>
+
+<p align="center"><b>⚙️ Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+</p>
+<br>
+
+<p align="center"><b>🧰 Tools & Others</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" alt="Tools & Others" />
 </p>
 
 ---
