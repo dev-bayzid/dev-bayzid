@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&vCenter=true&width=1200&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Bayzid+Hasan;Frontend+Developer;Building+with+React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS;Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=40&pause=1000&center=true&vCenter=true&width=1200&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Bayzid+Hasan;Frontend+Developer;Building+with+React+%E2%80%A2+Next.js+%E2%80%A2+Tailwind+CSS;Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dev-bayzid&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
