@@ -17,8 +17,7 @@
 
 I'm a frontend developer based in Bangladesh who enjoys building modern, responsive web applications.
 
-I mainly work with React, Next.js and Tailwind CSS. Currently, I'm learning backend development to become a full-stack MERN developer.
-
+I mainly work with React, Next.js and Tailwind CSS. Currently expanding my skills in backend development with Node.js, Express, and MongoDB to become a full-stack MERN developer.
 I enjoy solving real-world problems by building practical projects and continuously improving my development skills.
 
 ---
@@ -68,23 +67,23 @@ I enjoy solving real-world problems by building practical projects and continuou
 
 ### 🌐 Portfolio Website
 
-Modern portfolio built with Next.js and Tailwind CSS.
+A modern developer portfolio showcasing my projects, skills, and development journey, built with Next.js and Tailwind CSS.
 
-**Tech Stack:** Next.js • React • Tailwind CSS • Framer Motion
+`Next.js` • `React` • `Tailwind CSS` • `Framer Motion`
 
-- 🔗 **Live:** https://bayzid-dev.vercel.app
-- 💻 **Source:** https://github.com/dev-bayzid/Portfolio
-
+- 🌐 **Live Demo:** [Visit Website](https://bayzid-dev.vercel.app)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/dev-bayzid/Portfolio)
 ---
 
 ### 🫂 KeenKeeper — Friendship Relationship Tracker
 
 A modern friendship management web application built with **Next.js, React, and Tailwind CSS** that helps users maintain meaningful relationships by tracking communication history, upcoming contact goals, and interaction analytics.
 
-**Tech Stack:** Next.js • React • Tailwind CSS • Recharts • Context API
+`Next.js` • `React` • `Tailwind CSS` • `Recharts` • `Context API`
 
-- 🌐 **Live Demo:** https://keen-keeper-ten-puce.vercel.app/
-- 💻 **Source Code:** https://github.com/dev-bayzid/Keen-keeper
+
+- 🌐 **Live Demo:** [Visit Website](https://keen-keeper-ten-puce.vercel.app/)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/dev-bayzid/Keen-keeper)
 
 ---
 
@@ -92,10 +91,11 @@ A modern friendship management web application built with **Next.js, React, and 
 
 A modern book management web application built with **React.js and Tailwind CSS** that allows users to explore books, view detailed information, and organize their reading journey with an intuitive and responsive interface.
 
-**Tech Stack:** React • React Router • Tailwind CSS • DaisyUI
+ • `React` • `Tailwind CSS` • `React Router` • `DaisyUI`
 
-- 🌐 **Live Demo:** https://books-vibe-read-books.netlify.app/
-- 💻 **Source Code:** https://github.com/dev-bayzid/book-vibe
+
+- 🌐 **Live Demo:** [Visit Website](https://books-vibe-read-books.netlify.app/)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/dev-bayzid/book-vibe)
 
 ---
 
