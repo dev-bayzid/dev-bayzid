@@ -72,6 +72,7 @@ A modern developer portfolio showcasing my projects, skills, and development jou
 
 - 🌐 **Live Demo:** [Visit Website](https://bayzid-dev.vercel.app)
 - 💻 **Source Code:** [GitHub Repository](https://github.com/dev-bayzid/Portfolio)
+  
 ---
 
 ### 🫂 KeenKeeper — Friendship Relationship Tracker
@@ -90,7 +91,7 @@ A modern friendship management web application built with **Next.js, React, and 
 
 A modern book management web application built with **React.js and Tailwind CSS** that allows users to explore books, view detailed information, and organize their reading journey with an intuitive and responsive interface.
 
- • `React` • `Tailwind CSS` • `React Router` • `DaisyUI`
+`React` • `Tailwind CSS` • `React Router` • `DaisyUI`
 
 
 - 🌐 **Live Demo:** [Visit Website](https://books-vibe-read-books.netlify.app/)
