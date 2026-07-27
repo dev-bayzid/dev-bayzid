@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&center=true&vCenter=true&width=1200&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Bayzid+Hasan;Web+Development+Enthusiast;Learning+Next.js+%26+Modern+Web+Tech;%F0%9F%9A%80+Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">
@@ -20,12 +26,10 @@ I enjoy solving real-world problems by building practical projects and continuou
 ## 🛠️ Skills & Tools
 
 ### **Tools & Technologies**
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,nodejs,express,mongodb,git,github,vercel,vscode,figma" alt="Frontend Skills" />
 </p>
-
-
-
 
 ---
 
@@ -35,6 +39,7 @@ I enjoy solving real-world problems by building practical projects and continuou
 - 🌱 Learning backend development with Node.js & Express
 - 📚 Exploring authentication and databases
 - 🤝 Looking for open-source contribution opportunities
+
 ---
 
 ## 🎯 Current Focus
@@ -65,7 +70,6 @@ I enjoy solving real-world problems by building practical projects and continuou
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 
-  
 </p>
 
 ---
@@ -79,16 +83,16 @@ Modern portfolio built with Next.js and Tailwind CSS.
 - 🔗 **Live:** https://bayzid-dev.vercel.app
 - 💻 **Source:** https://github.com/dev-bayzid/Portfolio
 
---------------------------------------------------
+---
 
 ### 🫂 KeenKeeper — Friendship Relationship Tracker
 
 A modern friendship management web application built with **Next.js, React, and Tailwind CSS** that helps users maintain meaningful relationships by tracking communication history, upcoming contact goals, and interaction analytics.
 
-
 - 🌐 **Live Demo:** https://keen-keeper-ten-puce.vercel.app/
 - 💻 **Source Code:** https://github.com/dev-bayzid/Keen-keeper
---------------------------------------------------
+
+---
 
 ### 📚 Book Vibe
 
@@ -96,8 +100,6 @@ A modern book management web application built with **React.js and Tailwind CSS*
 
 - 🌐 **Live Demo:** https://books-vibe-read-books.netlify.app/
 - 💻 **Source Code:** https://github.com/dev-bayzid/book-vibe
-
-
 
 ---
 
@@ -107,15 +109,14 @@ A modern book management web application built with **React.js and Tailwind CSS*
   <img height="170"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dev-bayzid&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170"
+<img height="170"
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dev-bayzid&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dev-bayzid&theme=tokyonight&hide_border=true" />
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-bayzid&theme=tokyonight" alt="Profile Summary" />
@@ -123,11 +124,9 @@ A modern book management web application built with **React.js and Tailwind CSS*
 
 ---
 
-
 <p align="center">
   <strong>Feel free to explore my work, star my repositories, and let's connect! 🚀</strong>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Bayzid%20Hasan-blue?style=for-the-badge" alt="Made with Love" />
