@@ -28,7 +28,7 @@ I enjoy solving real-world problems by building practical projects and continuou
 ### **Tools & Technologies**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,firebase,nodejs,express,mongodb,git,github,vercel,vscode,figma" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,vscode,figma" alt="Frontend Skills" />
 </p>
 
 ---
@@ -39,14 +39,6 @@ I enjoy solving real-world problems by building practical projects and continuou
 - 🌱 Learning backend development with Node.js & Express
 - 📚 Exploring authentication and databases
 - 🤝 Looking for open-source contribution opportunities
-
----
-
-## 🎯 Current Focus
-
-- 🚀 Building responsive React applications
-- 📚 Mastering MERN Stack development
-- 🔧 Learning advanced JavaScript concepts
 
 ---
 
@@ -80,6 +72,8 @@ I enjoy solving real-world problems by building practical projects and continuou
 
 Modern portfolio built with Next.js and Tailwind CSS.
 
+**Tech Stack:** Next.js • React • Tailwind CSS • Framer Motion
+
 - 🔗 **Live:** https://bayzid-dev.vercel.app
 - 💻 **Source:** https://github.com/dev-bayzid/Portfolio
 
@@ -89,6 +83,8 @@ Modern portfolio built with Next.js and Tailwind CSS.
 
 A modern friendship management web application built with **Next.js, React, and Tailwind CSS** that helps users maintain meaningful relationships by tracking communication history, upcoming contact goals, and interaction analytics.
 
+**Tech Stack:** Next.js • React • Tailwind CSS • Recharts • Context API
+
 - 🌐 **Live Demo:** https://keen-keeper-ten-puce.vercel.app/
 - 💻 **Source Code:** https://github.com/dev-bayzid/Keen-keeper
 
@@ -97,6 +93,8 @@ A modern friendship management web application built with **Next.js, React, and 
 ### 📚 Book Vibe
 
 A modern book management web application built with **React.js and Tailwind CSS** that allows users to explore books, view detailed information, and organize their reading journey with an intuitive and responsive interface.
+
+**Tech Stack:** React • React Router • Tailwind CSS • DaisyUI
 
 - 🌐 **Live Demo:** https://books-vibe-read-books.netlify.app/
 - 💻 **Source Code:** https://github.com/dev-bayzid/book-vibe
