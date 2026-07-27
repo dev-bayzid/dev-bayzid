@@ -122,8 +122,16 @@ A modern book management web application built with **React.js and Tailwind CSS*
 
 ---
 
+## 📈 Contribution Graph
+
 <p align="center">
-  <strong>Feel free to explore my work, star my repositories, and let's connect! 🚀</strong>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-bayzid&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories or connecting with me on LinkedIn.
 </p>
 
 <p align="center">
