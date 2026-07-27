@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<br>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=40&pause=1000&center=true&vCenter=true&width=1200&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Bayzid+Hasan;Web+Development+Enthusiast;Learning+Next.js+%26+Modern+Web+Tech;%F0%9F%9A%80+Aspiring+MERN+Stack+Developer)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I'm a frontend developer from Bangladesh who enjoys building modern, responsive web applications.
+I'm a frontend developer based in Bangladesh who enjoys building modern, responsive web applications.
 
 I mainly work with React, Next.js and Tailwind CSS. Currently, I'm learning backend development to become a full-stack MERN developer.
 
@@ -24,8 +24,6 @@ I enjoy solving real-world problems by building practical projects and continuou
 ---
 
 ## 🛠️ Skills & Tools
-
-### **Tools & Technologies**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,vscode,figma" alt="Frontend Skills" />
